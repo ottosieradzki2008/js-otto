@@ -2,5 +2,6 @@
 
 - Estudante!
 - Mexo com Python, HTML, CSS e GML ✨
+- Não me olhe, interaja, cite.
 
-![](https://tenor.com/pt-BR/view/cat-funny-cats-gif-21109274)
+![fofo](https://tenor.com/bTEkv.gif)
